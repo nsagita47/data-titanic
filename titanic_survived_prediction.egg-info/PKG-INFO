@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: titanic-survived-prediction
+Version: 0.0.1
+Summary: Exercise project
+Home-page: UNKNOWN
+Author: Aris B W
+Author-email: arisbuw@gmail.com
+License: UNKNOWN
+Description: # Titanic Project 
+        
+        this project contains end to end pipeline in order to predict survival of titanic passanger 
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7

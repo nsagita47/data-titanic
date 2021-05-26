@@ -1,0 +1,7 @@
+README.md
+setup.py
+titanic_survived_prediction.egg-info/PKG-INFO
+titanic_survived_prediction.egg-info/SOURCES.txt
+titanic_survived_prediction.egg-info/dependency_links.txt
+titanic_survived_prediction.egg-info/requires.txt
+titanic_survived_prediction.egg-info/top_level.txt
